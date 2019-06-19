@@ -1,0 +1,12 @@
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\ACBShop.Model.dll.config
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\ACBShop.Model.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\ACBShop.Model.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\EntityFramework.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\EntityFramework.xml
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\obj\Debug\ACBShop.Model.csprojAssemblyReference.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\obj\Debug\ACBShop.Model.csproj.CoreCompileInputs.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\obj\Debug\ACBShop.Model.csproj.CopyComplete
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\obj\Debug\ACBShop.Model.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Model\obj\Debug\ACBShop.Model.pdb

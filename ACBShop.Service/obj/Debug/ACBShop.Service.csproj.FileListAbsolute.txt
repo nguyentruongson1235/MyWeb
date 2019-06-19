@@ -1,0 +1,15 @@
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Service.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Service.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Common.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Data.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Model.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Common.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Data.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Data.dll.config
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Model.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\bin\Debug\ACBShop.Model.dll.config
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\obj\Debug\ACBShop.Service.csprojAssemblyReference.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\obj\Debug\ACBShop.Service.csproj.CoreCompileInputs.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\obj\Debug\ACBShop.Service.csproj.CopyComplete
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\obj\Debug\ACBShop.Service.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Service\obj\Debug\ACBShop.Service.pdb

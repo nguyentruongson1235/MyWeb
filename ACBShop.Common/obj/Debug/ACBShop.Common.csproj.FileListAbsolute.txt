@@ -1,0 +1,6 @@
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\bin\Debug\ACBShop.Common.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\bin\Debug\ACBShop.Common.pdb
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\obj\Debug\ACBShop.Common.csprojAssemblyReference.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\obj\Debug\ACBShop.Common.csproj.CoreCompileInputs.cache
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\obj\Debug\ACBShop.Common.dll
+D:\HocTap\Dog\Source Code\ACBShop\ACBShop.Common\obj\Debug\ACBShop.Common.pdb
